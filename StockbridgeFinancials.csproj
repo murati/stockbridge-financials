@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <CefSharpBuildAction>Content</CefSharpBuildAction>
+</PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="cef.redist.x64" Version="109.1.11" />
+    <PackageReference Include="CefSharp.OffScreen.NETCore" Version="109.1.110" />
+    <PackageReference Include="HtmlAgilityPack" Version="1.11.46" />
+  </ItemGroup>
+
+</Project>
