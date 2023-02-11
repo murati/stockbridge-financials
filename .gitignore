@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/.vscode
+/bin/Debug/net6.0/cache
+/bin/Debug/net6.0/DawnCache
+/bin/Debug/net6.0/GPUCache
+/bin/Debug/net6.0/runtimes
+/bin/Debug/net7.0
+/bin/Debug/net6.0
+/obj
